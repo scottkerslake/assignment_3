@@ -4,10 +4,10 @@ require_once('TwitterAPIExchange.php');
 
 
 $settings = array(
-    'oauth_access_token' => "2720284888-IH0xwtOOy6kTId31hdrA0LICOw8P4C9MvUQBKMx",
-    'oauth_access_token_secret' => "IKu02oc4MfDdHQcCpkNyIGeqYfI6i7rHlWP8p5aJVVOdm",
-    'consumer_key' => "U4W8y8UShFwtqEFJdkQyna3wA",
-    'consumer_secret' => "h7G5zAPkSqcm2a9qj81OLoVnCCbf35DdOpmvCEOLHGYwGU4Klf"
+    'oauth_access_token' => "",
+    'oauth_access_token_secret' => "",
+    'consumer_key' => "",
+    'consumer_secret' => ""
 );
 
 // ?screen_name=sbukkit&count=40&include_rts=true
